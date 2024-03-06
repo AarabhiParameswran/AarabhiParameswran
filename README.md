@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AarabhiParameswran
+- 👋 Hi, I’m @AarabhiParameswaran
 - 👀 I’m interested in Reading and Programing
 - 🌱 I’m currently learning  Dart,Flutter programming
 - 💞️ Self study
