@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AarabhiParameswran
 - 👀 I’m interested in Reading and Programing
-- 🌱 I’m currently learning  C programming
-- 💞️ I’m looking to collaborate on internship internshala
+- 🌱 I’m currently learning  Dart,Flutter programming
+- 💞️ Self study
 - 📫 How to reach me Thrissur
 
 <!---
